@@ -1,0 +1,13 @@
+[
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿que estudia la filsofia?",
+        "respuesta": " asuntos relacionados a la existencia humana, tales como el conocimiento, la moral, el ser, la verdad, etc.",
+        "incorrecta1": "estudiar e investigar con rigor los fenómenos sociales, naturales y artificiales a través de la observación, experimentación y medición para dar respuesta a lo desconocido",
+        "incorrecta2": " el conjunto de conocimientos acerca de Dios, sus atributos y sus perfecciones",
+        "incorrecta3": "los seres vivos de manera integral, desde el nivel molecular hasta como integrante de los ecosistemas, a fin de conocer su estructura, función, diversidad, origen, evolución, e interrelaciones",
+        "imagen": "https://studentsforliberty.org/eslibertad/wp-content/uploads/sites/4/2020/10/filosofia-Nicol%EF%BF%BDs-Pierini.jpg",
+        "objectFit": "cover"
+    }
+    
+]
